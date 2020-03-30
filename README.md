@@ -23,8 +23,8 @@ Things you may want to cover:
 
 * ...
 
-# DMM WEBCAMPコンテンツ【Railsを学ぼう】
-DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題（sample_app）です。
+## DMM WEBCAMPコンテンツ【Railsを学ぼう】
+DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題（sample_app）です。  
 学習記録も残していきます。
 
 ## 学習記録
@@ -66,6 +66,7 @@ DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題（sample_app
 ### 8章 【画像投稿機能を作ろう】
 - 開始日 3月23日
 - 終了日 3月26日
+- 成果物 画像投稿機能を追加。
 - 質問　http://localhost:3000/todolists　にアクセスするとエラーが表示されてしまう
 画像を投稿した結果のページでRefile.secret_key……をコピペしてもエラーが表示されてしまう
 - 追記：3月28日 画像が投稿できるようになった。なぜ？（アクティビティモニタでCPUの負荷が大きかったvbox headlessを強制終了したから？）
@@ -73,4 +74,7 @@ DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題（sample_app
 ### 9章 【削除機能を作ろう】
 - 開始日 3月28日
 - 終了日 3月28日
+- 成果物 削除機能のルーティング・コントローラ・ビュー
 
+### 10章 【MVCを振り返ろう】
+- 開始日 3月30日
